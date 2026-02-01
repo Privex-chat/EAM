@@ -1,0 +1,7 @@
+python -m nuitka asset_catalog_desktop.py ^
+  --standalone ^
+  --onefile ^
+  --enable-plugin=pyside6 ^
+  --include-qt-plugins=multimedia ^
+  --windows-disable-console ^
+  --output-filename=EAM_v1_0.exe
