@@ -161,4 +161,6 @@ EAM is designed to be **fast**, **local-first**, and **editor-friendly** — no 
 
 If you work with large asset libraries, EAM keeps them organized and instantly accessible.
 
-
+![Preview 1](https://raw.githubusercontent.com/Privex-chat/EAM/refs/heads/main/images/1.PNG)
+![Preview 2](https://raw.githubusercontent.com/Privex-chat/EAM/refs/heads/main/images/2.PNG)
+![Preview 3](https://raw.githubusercontent.com/Privex-chat/EAM/refs/heads/main/images/3.PNG)
